@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "E:/Porting Game/Black/black-pc/loader"
+    "cmake.sourceDirectory": "E:/Porting Game/Black/black-pc/loader",
+    "cmake.parallelJobs": 20
 }
